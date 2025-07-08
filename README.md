@@ -1,5 +1,7 @@
 # 💫 About Me:
-💻 Junior Full Stack Developer met ervaring in PHP, Python, Node.js, React en Next.js<br>🎓 Afgestudeerd in Computer Science aan de University of Otago, Nieuw-Zeeland<br>📊 Geïnteresseerd in data analytics, datavisualisatie en het bouwen van veilige webapplicaties<br>📹 Deel mijn tech-journey via YouTube en #learninginpublic<br><br>
+💻 Junior Full Stack Developer met ervaring in PHP, Python, Node.js, React en Next.js<br>🎓 Afgestudeerd als Software Developer aan het MBO in Breda, Noord-Brabant<br>📊 Focus op het ontwikkelen van gebruiksvriendelijke apps en het analyseren van data<br>
+🚀 Continu bezig met leren, verbeteren en het toepassen van nieuwe technieken
+<br><br>
 
 
 ## 🌐 Socials:
